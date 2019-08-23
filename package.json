@@ -2,7 +2,7 @@
   "name": "reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://code357/github.io/monsters-rolodex",
+  "homepage": "https://code357.github.io/monsters-rolodex",
   "dependencies": {
     "@types/react": "^16.9.2",
     "gh-pages": "^2.1.1",
